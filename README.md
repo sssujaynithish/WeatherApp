@@ -3,6 +3,10 @@
 
 A sleek and responsive weather application built with HTML, CSS, and JavaScript, utilizing OpenWeatherMap's Weather API to provide real-time weather information. This project offers a clean UI and intuitive experience, allowing users to quickly access accurate weather details for any city worldwide.
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/e23f393a-9fa4-4224-af59-c39071ca7bc0)
+
+
 ## 📌 Features
 - **Real-time Weather Information**: Get accurate weather updates for any location globally.
 - **City Search**: Search for weather conditions by city name.
