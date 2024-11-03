@@ -32,13 +32,6 @@ A sleek and responsive weather application built with HTML, CSS, and JavaScript,
 ## 📚 API Reference
 This app utilizes the OpenWeatherMap API for fetching real-time weather data. Refer to the [OpenWeatherMap API Documentation](https://openweathermap.org/api) for more details on available parameters and responses.
 
-## 🤝 Contributing
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`.
-4. Push to the branch: `git push origin feature/AmazingFeature`.
-5. Open a pull request.
 
-🌟 **Show your support by starring this repo!**
 
 Happy Coding! 😊
